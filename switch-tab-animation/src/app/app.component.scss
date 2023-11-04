@@ -286,3 +286,22 @@ footer a {
 }
 
 // end loading spinner
+
+footer>ol {
+  border-left: 2px solid lightgray;
+  margin-left: 1em;
+}
+
+.tbc {
+  color: red;
+}
+
+.wip {
+  color: green;
+  font-weight: bold;
+}
+
+
+.nobr>a {
+  display: inline;
+}
